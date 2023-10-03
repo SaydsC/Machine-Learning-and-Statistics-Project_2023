@@ -1,3 +1,3 @@
-# Machine-Learning-and-Statistics-Project_2023
-Machine Learning and Statistics - Project Repository
+# Machine-Learning-and-Statistics-2023
+Machine Learning and Statistics course work repository
 
